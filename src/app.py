@@ -8,9 +8,9 @@ import random
 app = Dash(__name__)
 server = app.server
 
-df_node = pd.read_csv('C:/Users/atoge/OneDrive/바탕 화면/test/df_node.csv')
-df_edge = pd.read_csv('C:/Users/atoge/OneDrive/바탕 화면/test/df_edge.csv')
-result = pd.read_csv('C:/Users/atoge/OneDrive/바탕 화면/test/test.csv')
+df_node = pd.read_csv('./data/df_node.csv')
+df_edge = pd.read_csv('./data/df_edge.csv')
+result = pd.read_csv('./data/test.csv')
 
 
 colors = ['IndianRed', 'LightCoral', 'Salmon', 'DarkSalmon', 'LightSalmon', 'Crimson', 'Red',
@@ -179,4 +179,7 @@ def displayTapNodeData(data):
     if data:
         return "Associated gene: " + str(data['gene']) + ", Term p-value: " + str(data['size'])
 
-app.run_server(debug=True, use_reloader=False)
+
+
+if __name__ == "__main__":
+	app.run_server(debug=True, use_reloader=False)

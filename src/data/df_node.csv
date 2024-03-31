@@ -1,0 +1,102 @@
+Associated Genes Found,ID,Nr. Genes,Ontology Source,Term,Term PValue,-log10term pvlaue,Term PValue Corrected with Bonferroni step down,GOGroups,Color
+S100a9,GO:0035606,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,peptidyl-cysteine S-trans-nitrosylation,0.024407433,,0.024407433,Group00,IndianRed
+Abca12,GO:0003336,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,corneocyte desquamation,0.024407433,,0.024407433,Group01,LightCoral
+Dmgdh,GO:0042426,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,choline catabolic process,0.012278818,,0.024557636,Group02,Salmon
+Lgals9,GO:0043322,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of natural killer cell degranulation,0.012278818,,0.024557636,Group03,DarkSalmon
+"Btnl1, Btnl6",GO:0045062,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,extrathymic T cell selection,4.47E-04,,0.001787794,Group04,LightSalmon
+Susd4,GO:0045957,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,"negative regulation of complement activation, alternative pathway",0.024407433,,0.024407433,Group05,Crimson
+Idi2,GO:0050992,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,dimethylallyl diphosphate biosynthetic process,0.024407433,,0.024407433,Group06,Red
+Areg,GO:0060598,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis,0.024407433,,0.024407433,Group07,FireBrick
+Sfrp2,GO:0061185,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of dermatome development,0.012278818,,0.024557636,Group08,DarkRed
+"Il27ra, Oas2, Oasl1, Oasl2, Stat1",GO:0070106,5,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,interleukin-27-mediated signaling pathway,5.53E-09,,4.43E-08,Group09,Pink
+Cyp1b1,GO:0071387,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,cellular response to cortisol stimulus,0.024407433,,0.024407433,Group10,LightPink
+Ntf5,GO:0008052,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,sensory organ boundary specification,0.012278818,,0.024557636,Group11,HotPink
+Evx1,GO:0097377,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,spinal cord interneuron axon guidance,0.024407433,,0.024407433,Group12,DeepPink
+Drd3,GO:0032416,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of sodium:proton antiporter activity,0.024407433,,0.024407433,Group13,MediumVioletRed
+Rnf213,GO:0120323,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,lipid ubiquitination,0.012278818,,0.024557636,Group14,PaleVioletRed
+Spry3,GO:0150013,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of neuron projection arborization,0.012278818,,0.024557636,Group15,LightSalmon
+"Ddx60, Dhx58",GO:1900245,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of MDA-5 signaling pathway,8.87E-04,,0.002659925,Group16,Coral
+Slfn1,GO:1900477,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of G1/S transition of mitotic cell cycle by negative regulation of transcription from RNA polymerase II promoter,0.024407433,,0.024407433,Group17,Tomato
+Sp6,GO:1902070,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of sphingolipid mediated signaling pathway,0.024407433,,0.024407433,Group18,OrangeRed
+Parp14,GO:1902216,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of interleukin-4-mediated signaling pathway,0.024407433,,0.024407433,Group19,DarkOrange
+Gfap,GO:0010625,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of Schwann cell proliferation,0.024407433,,0.024407433,Group20,Orange
+Irf7,GO:0034127,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of MyD88-independent toll-like receptor signaling pathway,0.024407433,,0.024407433,Group21,Gold
+Qprt,GO:0034213,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,quinolinate catabolic process,0.012278818,,0.024557636,Group22,Yellow
+Nr4a1,GO:0014852,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of skeletal muscle contraction by neural stimulation via neuromuscular junction,0.024407433,,0.024407433,Group23,LightYellow
+Nr4a1,GO:0014860,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,neurotransmitter secretion involved in regulation of skeletal muscle contraction,0.012278818,,0.024557636,Group23,LightYellow
+Nr4a3,GO:0009444,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,pyruvate oxidation,0.012278818,,0.024557636,Group24,LightGoldenrodYellow
+Nr4a3,GO:0038097,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway,0.012278818,,0.024557636,Group24,LightGoldenrodYellow
+Slc13a5,GO:0015741,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,fumarate transport,0.012278818,,0.024557636,Group25,Moccasin
+Slc13a5,GO:0017153,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,sodium:dicarboxylate symporter activity,0.024407433,,0.024407433,Group25,Moccasin
+"Igtp, Irgm1, Nlrc5, Parp9",GO:0060332,4,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of response to interferon-gamma,1.50E-06,,1.05E-05,Group26,PaleGoldenrod
+"Igtp, Irgm1, Nlrc5, Parp9",GO:0060335,4,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of interferon-gamma-mediated signaling pathway,1.50E-06,,1.05E-05,Group26,PaleGoldenrod
+Stat1,GO:0034240,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of macrophage fusion,0.012278818,,0.024557636,Group27,DarkKhaki
+Stat1,GO:0072308,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of metanephric nephron tubule epithelial cell differentiation,0.012278818,,0.024557636,Group27,DarkKhaki
+Atp7b,GO:0043682,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,P-type divalent copper transporter activity,0.024407433,,0.024407433,Group28,Thistle
+Atp7b,GO:0140581,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,P-type monovalent copper transporter activity,0.024407433,,0.024407433,Group28,Thistle
+Agmat,GO:0033388,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,putrescine biosynthetic process from arginine,0.012278818,,0.024557636,Group29,Violet
+Agmat,GO:0033389,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,"putrescine biosynthetic process from arginine, using agmatinase",0.012278818,,0.024557636,Group29,Violet
+Il27ra,GO:0045509,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,interleukin-27 receptor activity,0.012278818,,0.024557636,Group30,Fuchsia
+Il27ra,GO:2000408,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of T cell extravasation,0.012278818,,0.024557636,Group30,Fuchsia
+Gbp7,GO:0034344,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of type III interferon production,0.024407433,,0.024407433,Group31,MediumOrchid
+Gbp7,GO:0034345,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of type III interferon production,0.012278818,,0.024557636,Group31,MediumOrchid
+Adra2a,GO:0070473,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of uterine smooth muscle contraction,0.024407433,,0.024407433,Group32,Navy
+Adra2a,GO:0071881,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,adenylate cyclase-inhibiting adrenergic receptor signaling pathway,0.024407433,,0.024407433,Group32,Navy
+Adra2a,GO:0071882,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,phospholipase C-activating adrenergic receptor signaling pathway,0.012278818,,0.024557636,Group32,Navy
+Aplnr,GO:0060182,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,apelin receptor activity,0.012278818,,0.024557636,Group33,DarkOrchid
+Aplnr,GO:1904323,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of inhibitory G protein-coupled receptor phosphorylation,0.024407433,,0.024407433,Group33,DarkOrchid
+Aplnr,GO:1904325,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of inhibitory G protein-coupled receptor phosphorylation,0.024407433,,0.024407433,Group33,DarkOrchid
+Pnpla3,GO:0036153,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,triglyceride acyl-chain remodeling,0.012278818,,0.024557636,Group34,Indigo
+Pnpla3,GO:0036155,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,acylglycerol acyl-chain remodeling,0.012278818,,0.024557636,Group34,Indigo
+Pnpla3,GO:1905243,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,"cellular response to 3,3',5-triiodo-L-thyronine",0.024407433,,0.024407433,Group34,Indigo
+Oas3,GO:0035393,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,chemokine (C-X-C motif) ligand 9 production,0.012278818,,0.024557636,Group35,MediumSlateBlue
+Oas3,GO:0035394,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of chemokine (C-X-C motif) ligand 9 production,0.012278818,,0.024557636,Group35,MediumSlateBlue
+Oas3,GO:0035395,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of chemokine (C-X-C motif) ligand 9 production,0.012278818,,0.024557636,Group35,MediumSlateBlue
+P2ry12,GO:0021806,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,initiation of movement involved in cerebral cortex radial glia guided migration,0.012278818,,0.024557636,Group36,LawnGreen
+P2ry12,GO:0021808,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,cytosolic calcium signaling involved in initiation of cell movement in glial-mediated radial cell migration,0.012278818,,0.024557636,Group36,LawnGreen
+P2ry12,GO:0033626,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of integrin activation by cell surface receptor linked signal transduction,0.024407433,,0.024407433,Group36,LawnGreen
+P2ry12,GO:0035585,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,calcium-mediated signaling using extracellular calcium source,0.024407433,,0.024407433,Group36,LawnGreen
+Tbx18,GO:0060823,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation,0.012278818,,0.024557636,Group37,LightGreen
+Tbx18,GO:0060827,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation,0.012278818,,0.024557636,Group37,LightGreen
+Tbx18,GO:0060829,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation,0.012278818,,0.024557636,Group37,LightGreen
+Tbx18,GO:0060930,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,sinoatrial node cell fate commitment,0.012278818,,0.024557636,Group37,LightGreen
+Slc38a3,GO:0015817,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,histidine transport,0.024407433,,0.024407433,Group38,SeaGreen
+Slc38a3,GO:0061402,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of transcription from RNA polymerase II promoter in response to acidic pH,0.024407433,,0.024407433,Group38,SeaGreen
+Slc38a3,GO:2000485,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of glutamine transport,0.024407433,,0.024407433,Group38,SeaGreen
+Slc38a3,GO:2000487,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of glutamine transport,0.012278818,,0.024557636,Group38,SeaGreen
+Bst2,GO:0002373,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,plasmacytoid dendritic cell cytokine production,0.012278818,,0.024557636,Group39,YellowGreen
+Bst2,GO:0002731,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of dendritic cell cytokine production,0.024407433,,0.024407433,Group39,YellowGreen
+Bst2,GO:0002736,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of plasmacytoid dendritic cell cytokine production,0.012278818,,0.024557636,Group39,YellowGreen
+Bst2,GO:0002737,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of plasmacytoid dendritic cell cytokine production,0.012278818,,0.024557636,Group39,DarkOliveGreen
+Pcsk9,GO:0032378,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intracellular lipid transport,0.024407433,,0.024407433,Group40,MediumAquamarine
+Pcsk9,GO:0032381,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intracellular sterol transport,0.024407433,,0.024407433,Group40,MediumAquamarine
+Pcsk9,GO:0032384,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intracellular cholesterol transport,0.024407433,,0.024407433,Group40,MediumAquamarine
+Pcsk9,GO:1905596,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of low-density lipoprotein particle receptor binding,0.012278818,,0.024557636,Group40,MediumAquamarine
+Pcsk9,GO:1905601,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of receptor-mediated endocytosis involved in cholesterol transport,0.024407433,,0.024407433,Group40,MediumAquamarine
+Apod,GO:0034442,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of lipoprotein oxidation,0.024407433,,0.024407433,Group41,Aqua
+Apod,GO:0034443,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of lipoprotein oxidation,0.012278818,,0.024557636,Group41,Aqua
+Apod,GO:0060587,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of lipoprotein lipid oxidation,0.024407433,,0.024407433,Group41,Aqua
+Apod,GO:0060588,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of lipoprotein lipid oxidation,0.012278818,,0.024557636,Group41,Aqua
+Apod,GO:2000098,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of smooth muscle cell-matrix adhesion,0.024407433,,0.024407433,Group41,Aqua
+Cmpk2,GO:0004798,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,thymidylate kinase activity,0.024407433,,0.024407433,Group42,Turquoise
+Cmpk2,GO:0006233,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,dTDP biosynthetic process,0.024407433,,0.024407433,Group42,Turquoise
+Cmpk2,GO:0033862,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,UMP kinase activity,0.024407433,,0.024407433,Group42,Turquoise
+Cmpk2,GO:0036430,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,CMP kinase activity,0.024407433,,0.024407433,Group42,Turquoise
+Cmpk2,GO:0036431,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,dCMP kinase activity,0.024407433,,0.024407433,Group42,Turquoise
+Cmpk2,GO:0046072,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,dTDP metabolic process,0.024407433,,0.024407433,Group42,LightSteelBlue
+"Abcg5, Abcg8",GO:0010949,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intestinal phytosterol absorption,1.50E-04,,7.51E-04,Group43,PowderBlue
+"Abcg5, Abcg8",GO:0045796,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intestinal cholesterol absorption,1.50E-04,,7.51E-04,Group43,PowderBlue
+"Abcg5, Abcg8",GO:0060752,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,intestinal phytosterol absorption,1.50E-04,,7.51E-04,Group43,PowderBlue
+Isx,GO:1901738,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of vitamin A metabolic process,0.024407433,,0.024407433,Group43,PowderBlue
+"Abcg5, Abcg8, Isx",GO:1904479,3,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intestinal absorption,3.56E-05,,2.14E-04,Group43,PowderBlue
+"Abcg5, Abcg8",GO:1904730,2,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,negative regulation of intestinal lipid absorption,1.50E-04,,7.51E-04,Group43,PowderBlue
+Tnfsf4,GO:0035708,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,interleukin-4-dependent isotype switching to IgE isotypes,0.012278818,,0.024557636,Group44,CornflowerBlue
+Tnfsf4,GO:0035712,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,T-helper 2 cell activation,0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:1900279,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,"regulation of CD4-positive, alpha-beta T cell costimulation",0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:1900281,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,"positive regulation of CD4-positive, alpha-beta T cell costimulation",0.012278818,,0.024557636,Group44,CornflowerBlue
+Tnfsf4,GO:2000567,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of memory T cell activation,0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:2000568,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of memory T cell activation,0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:2000569,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of T-helper 2 cell activation,0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:2000570,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of T-helper 2 cell activation,0.024407433,,0.024407433,Group44,CornflowerBlue
+Tnfsf4,GO:2000571,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,regulation of interleukin-4-dependent isotype switching to IgE isotypes,0.012278818,,0.024557636,Group44,CornflowerBlue
+Tnfsf4,GO:2000572,1,GO_BiologicalProcess-EBI-UniProt-GOA-ACAP-ARAP_25.05.2022_00h00,positive regulation of interleukin-4-dependent isotype switching to IgE isotypes,0.012278818,,0.024557636,Group44,CornflowerBlue
